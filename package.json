@@ -2,7 +2,6 @@
   "name": "knapsack-algorithm-visualization",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://shanjayjb002-crypto.github.io/knapsack-algorithm-visualization",
   "dependencies": {
     "@heroicons/react": "^2.0.18",
     "@hookform/error-message": "^2.0.0",
